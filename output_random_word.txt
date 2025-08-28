@@ -1,0 +1,51 @@
+Script started on 2025-08-27 21:44:42-04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="133" LINES="11"]
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ git@github.com:dagem44/git-test.git remote -v[Kssh -T git@github.com[8Pgit remote -v@github.com:dagem44/git-test.git[K./a.out
+[?2004lToday's random word: ONEWVCP
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: JOXCCGB
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: YXGFXIU
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: IASGYEB
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: IASGYEB
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: ZXKFRPR
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: EHZKVRS
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: EHZKVRS
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: MDKSEVZ
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: SPTLSMZ
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: ZWPYOOH
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: FBPXWRE
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: LUTWVBO
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: YTPGQIH
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: YTPGQIH
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: RQRXPIN
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: EXNBMCU
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: EBXDPEA
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: EBXDPEA
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: LTXYMHZ
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: LTXYMHZ
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: UYHQYHT
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ ./a.out
+[?2004lToday's random word: NQIAPEI
+[?2004h]0;tur44100@cis-lclient02: ~/os/3207-Lab-Introduction[01;32mtur44100@cis-lclient02[00m:[01;34m~/os/3207-Lab-Introduction[00m$ exit
+[?2004lexit
+
+Script done on 2025-08-27 21:45:37-04:00 [COMMAND_EXIT_CODE="0"]
